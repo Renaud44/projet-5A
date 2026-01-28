@@ -1,0 +1,16 @@
+# Blender 4.5.0 MTL File: 'None'
+# www.blender.org
+
+newmtl tripo_mat_50e9f458-c596-4645-a2b0-2f4c676d3c9f
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd etageremetallique3dmodele_basecolor.JPEG
+map_Ns etageremetallique3dmodele_roughness.JPEG
+map_Pr etageremetallique3dmodele_roughness.JPEG
+map_refl etageremetallique3dmodele_metallic.JPEG
+map_Pm etageremetallique3dmodele_metallic.JPEG
+map_Bump -bm 1.000000 etageremetallique3dmodele_normal.JPEG
