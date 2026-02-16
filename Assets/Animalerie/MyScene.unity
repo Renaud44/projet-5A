@@ -47354,6 +47354,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WaterLeak Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 3369339435809728064, guid: 8eb74df3481b6f7448b2a90491b54840,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3371317583091308752, guid: 8eb74df3481b6f7448b2a90491b54840,
         type: 3}
       propertyPath: m_LocalPosition.x
